@@ -22,6 +22,11 @@ public class Main {
 			return;
 		}
 
+		if (args.length < 1) {
+			// Test commit
+			return;
+		}
+
 		String spdxTool = args[0];
 		args = ArrayUtils.removeElement(args, args[0]);
 
