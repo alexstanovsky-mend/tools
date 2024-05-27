@@ -22,7 +22,7 @@ public class Main {
 			return;
 		}
 
-		if (args.length < 0) {
+		if (args.length < 1) {
 			// Test commit
 			return;
 		}
