@@ -1,6 +1,7 @@
 {
   "scanSettings": {
     "enableReachability":true,
+"reachabilityScanDelayHours":12,
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
